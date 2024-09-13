@@ -18,8 +18,8 @@ Muestra la siguiente información.
 - Navegador
 
 ## Instalación
-1. Clona el repositorio: `https://github.com/jom3/SPA_CV-roadmap.sh.git`
-2. Navega al directorio del proyecto: `SPA_CV-roadmap.sh`
+1. Clona el repositorio: `https://github.com/jom3/roadmap_spa-cv.git`
+2. Navega al directorio del proyecto: `roadmap_spa-cv`
 
 ## Uso
 1. Inicia la aplicación: `haciendo doble click en index.html`
